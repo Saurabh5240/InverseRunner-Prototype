@@ -1,5 +1,5 @@
 # InverseRunner-Prototype   
-- This is a prototype of Inverse Runner game with similar features , created for "How to Abroad".
+- This is a prototype of Inverse Runner game with similar features , created for "How to Abroad".(Assignment)
 - This Game has following features ---   
    1.The player jumps on left click and shoots on right click.   
    2.The score increases with the maount of time player survives.   
